@@ -9,8 +9,3 @@ router.get("/:id", controller.getPost);
 router.patch("/:id", controller.updatePost);
 
 module.exports = router;
-
-/*
-gokulsakthipro@gmail.com,
-prince@and-labs.com
-*/
